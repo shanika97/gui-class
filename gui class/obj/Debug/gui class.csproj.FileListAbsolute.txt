@@ -1,0 +1,12 @@
+E:\course\c#\20\gui class\gui class\bin\Debug\gui class.exe.config
+E:\course\c#\20\gui class\gui class\bin\Debug\gui class.exe
+E:\course\c#\20\gui class\gui class\bin\Debug\gui class.pdb
+E:\course\c#\20\gui class\gui class\obj\Debug\gui class.csprojResolveAssemblyReference.cache
+E:\course\c#\20\gui class\gui class\obj\Debug\gui_class.Form1.resources
+E:\course\c#\20\gui class\gui class\obj\Debug\gui_class.Properties.Resources.resources
+E:\course\c#\20\gui class\gui class\obj\Debug\gui class.csproj.GenerateResource.Cache
+E:\course\c#\20\gui class\gui class\obj\Debug\gui class.exe
+E:\course\c#\20\gui class\gui class\obj\Debug\gui class.pdb
+E:\course\c#\20\gui class\gui class\obj\Debug\gui_class.Bookwindow.resources
+E:\course\c#\20\gui class\gui class\obj\Debug\gui_class.staffwindow.resources
+E:\course\c#\20\gui class\gui class\obj\Debug\gui_class.Form2.resources
